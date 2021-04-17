@@ -1,0 +1,14 @@
+primitive datatype ko object hudaina 
+constant kok cptital
+package small 2ta xa vane .le xutaunney
+
+
+for each loop
+string ko lae sc.nextLine();
+inheritance:
+single multilevel heirararchial
+multiple cab be achieve with the help of interface 
+class extends interfacae lai implements
+extend implements is a relnship
+class vitra arkai class ko obj
+
